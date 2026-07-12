@@ -23,5 +23,9 @@ Bu proje, yöneticilerin sistemdeki kullanıcıları kolayca yönetebilmesi içi
 Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 **1. Projeyi Klonlayın**
-```bash
+bash
 git clone [https://github.com/Muhammed-Kara/Vue3-Admin.git](https://github.com/Muhammed-Kara/Vue3-Admin.git)
+
+
+<img src="./1.4.png" alt="Ekran Görüntüsü 1" width="100%"> | <img src="./1.5.png" alt="Ekran Görüntüsü 2" width="100%"> 
+| <img src="./1.6.png" alt="Ekran Görüntüsü 3" width="100%"> | <img src="./1.7.png" alt="Ekran Görüntüsü 4" width="100%"> 
