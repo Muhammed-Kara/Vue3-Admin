@@ -4,6 +4,13 @@ Modern, hızlı ve kullanıcı dostu bir yönetim paneli arayüzü. Vue 3 (Compo
 
 Bu proje, yöneticilerin sistemdeki kullanıcıları kolayca yönetebilmesi için tasarlanmış temiz bir arayüze ve esnek bir mimariye sahiptir.
 
+## 📸 Ekran Görüntüleri
+
+| Aydınlık Tema / Genel Görünüm | Karanlık Tema / Modal Görünümü |
+| :---: | :---: |
+| <img src="./1.4.png" alt="Ekran Görüntüsü 1" width="100%"> | <img src="./1.5.png" alt="Ekran Görüntüsü 2" width="100%"> |
+| <img src="./1.6.png" alt="Ekran Görüntüsü 3" width="100%"> | <img src="./1.7.png" alt="Ekran Görüntüsü 4" width="100%"> |
+
 ## ✨ Özellikler
 
 - **👥 Kullanıcı Yönetimi (CRUD):** Kullanıcı listeleme, ekleme, düzenleme ve silme işlemleri.
@@ -23,9 +30,33 @@ Bu proje, yöneticilerin sistemdeki kullanıcıları kolayca yönetebilmesi içi
 Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 **1. Projeyi Klonlayın**
-bash
+```bash
 git clone [https://github.com/Muhammed-Kara/Vue3-Admin.git](https://github.com/Muhammed-Kara/Vue3-Admin.git)
+```
+
+**2. Proje Dizinine Girin**
+```bash
+cd Vue3-Admin
+```
+
+**3. Bağımlılıkları Yükleyin**
+```bash
+npm install
+```
 
 
-<img src="./1.4.png" alt="Ekran Görüntüsü 1" width="100%"> | <img src="./1.5.png" alt="Ekran Görüntüsü 2" width="100%"> 
-| <img src="./1.6.png" alt="Ekran Görüntüsü 3" width="100%"> | <img src="./1.7.png" alt="Ekran Görüntüsü 4" width="100%"> 
+**4. Ortam Değişkenlerini Ayarlayın**
+```bash
+Ana dizindeki .env.example dosyasının bir kopyasını oluşturup adını .env olarak değiştirin ve içindeki ayarları kendi ortamınıza göre yapılandırın.
+```
+
+
+**5. Geliştirme Sunucusunu Başlatın**
+```bash
+npm run dev
+```
+
+👨‍💻 Geliştirici
+Muhammed Kara
+
+GitHub: @Muhammed-Kara
