@@ -56,7 +56,7 @@ Ana dizindeki .env.example dosyasının bir kopyasını oluşturup adını .env 
 npm run dev
 ```
 
-👨‍💻 Geliştirici
+👨‍💻 Geliştirici:
 Muhammed Kara
 
 GitHub: @Muhammed-Kara
